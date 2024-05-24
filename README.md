@@ -5,7 +5,7 @@ Bankist/
 │
 ├── img/
 │   ├── icon.png
-│   ├── logo.png
+│   ├── logo.png 
 │   ├── hero.png
 │   ├── digital.jpg
 │   ├── digital-lazy.jpg
